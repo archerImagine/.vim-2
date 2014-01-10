@@ -9,7 +9,13 @@ execute pathogen#infect()
 filetype plugin indent on
 filetype indent plugin on
 syntax enable
-
+if has('gui_running')
+	set background=dark
+	colorscheme solarized
+else
+	set background=light
+	colorscheme Mustang 
+endif
 
 "http://stackoverflow.com/questions/880668/how-to-avoid-indentation-error-after-changing-tab-stops-in-vim
 set tabstop=4
