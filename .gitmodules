@@ -28,3 +28,6 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = ../../tpope/vim-surround.git
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = ../../rstacruz/sparkup.git
