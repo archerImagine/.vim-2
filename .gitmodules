@@ -16,3 +16,6 @@
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = ../../honza/vim-snippets.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = ../../scrooloose/nerdtree.git
