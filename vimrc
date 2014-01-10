@@ -44,3 +44,4 @@ command -nargs=0 -bar Update if &modified
 nnoremap <silent> <C-S> :<C-u>Update<CR>
 
 inoremap <c-s> <Esc>:Update<CR>
+let g:snipMateTrigger = '<C-CR>'

@@ -4,3 +4,15 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = ../../tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = ../../MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = ../../garbas/vim-snipmate.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = ../../honza/vim-snippets.git
